@@ -61,22 +61,34 @@ F.  Develop a look-up function that takes the following components as input and 
 Note: Your function should output all data elements for the package ID number. 
 
 G.  Provide an interface for the user to view the status and info (as listed in part F) of any package at any time, and the total mileage traveled by all trucks. (The delivery status should report the package as at the hub, en route, or delivered. Delivery status must include the time.)
+
   1.  Provide screenshots to show the status of all packages at a time between 8:35 a.m. and 9:25 a.m.
   2.  Provide screenshots to show the status of all packages at a time between 9:35 a.m. and 10:25 a.m.
   3.  Provide screenshots to show the status of all packages at a time between 12:03 p.m. and 1:12 p.m.
 H.  Provide a screenshot or screenshots showing successful completion of the code, free from runtime errors or warnings, that includes the total mileage traveled by all trucks.
+
 I.  Justify the core algorithm you identified in part A and used in the solution by doing the following:
   1.  Describe at least two strengths of the algorithm used in the solution.
   2.  Verify that the algorithm used in the solution meets all requirements in the scenario.
   3.  Identify two other named algorithms, different from the algorithm implemented in the solution, that would meet the requirements in the scenario.
+  4.  
 a.  Describe how each algorithm identified in part I3 is different from the algorithm used in the solution.
+
 J.  Describe what you would do differently, other than the two algorithms identified in I3, if you did this project again.
+
 K.  Justify the data structure you identified in part D by doing the following:
   1.  Verify that the data structure used in the solution meets all requirements in the scenario.
+     
 a.  Explain how the time needed to complete the look-up function is affected by changes in the number of packages to be delivered.
+
 b.  Explain how the data structure space usage is affected by changes in the number of packages to be delivered.
+
 c.  Describe how changes to the number of trucks or the number of cities would affect the look-up time and the space usage of the data structure.
-  2.  Identify two other data structures that could meet the same requirements in the scenario.
+
+  3.  Identify two other data structures that could meet the same requirements in the scenario.
+     
 a.  Describe how each data structure identified in part K2 is different from the data structure used in the solution.
+
 L.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+
 M.  Demonstrate professional communication in the content and presentation of your submission.
